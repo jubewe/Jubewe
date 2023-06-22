@@ -8,6 +8,8 @@
 >__Note__ Certified Knecht
 
 <div align="center">
+  <a href="https://wakatime.com/@2b4888da-26a5-4a49-9d26-97e928ef3cd0" target="_blank"><img src="https://wakatime.com/badge/user/2b4888da-26a5-4a49-9d26-97e928ef3cd0.svg" alt="Total time coded since Jun 17 2023" /></a>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=jubewe&show_icons=true&theme=radical&hide_rank=true&card_width=300">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jubewe&theme=radical&exclude_repo=streamdeck-esp,streamdeck-pcb&layout=compact&card_width=300">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=jubewe&theme=dark&card_width=200&hide_current_streak=true&hide_longest_streak=true&card_width=300">
