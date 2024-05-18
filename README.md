@@ -14,7 +14,6 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=jubewe&theme=dark&card_width=200&hide_current_streak=true&hide_longest_streak=true&card_width=300">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jubewe&repo=oberknecht-client&theme=radical&show_owner=true">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jubewe&repo=modlookup&theme=radical&show_owner=true">
 </div>
 <br>
 <div align="center">
